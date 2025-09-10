@@ -1,8 +1,8 @@
-# Cargando
-Cargando...
-Cargando..
-Cargando.
-**Carga Completa!**
+# Cargando  
+Cargando...  
+Cargando..  
+Cargando.  
+**Carga Completa!**  
 
 Mi nombre es Nicolas Pajaro, actualmente me encuentro estudiando Ingeniería de Sistemas y Computación en la Universidad Nacional de Colombia
 <!--
