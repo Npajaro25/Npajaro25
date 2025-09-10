@@ -5,7 +5,10 @@ Loading..
 Loading.  
 **Load Successful!**  
 -->
-Mi nombre es Nicolas Pajaro, actualmente me encuentro estudiando Ingeniería de Sistemas y Computación en la Universidad Nacional de Colombia
+Mi nombre es Nicolas Pajaro, actualmente me encuentro estudiando Ingeniería de Sistemas y Computación en la Universidad Nacional de Colombia, alguien que le encanta la tecnología y encontrar distintas maneras de resolver los problemas.  
+Entre más creativa y/o descabellada mejor!
+- 🌱 Manejo Python, algo de Javascript y C++
+- 💬 Me encantan los retos, entre más desafiante más ganas me dan de superarlo
 <!--
 **Npajaro25/Npajaro25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
