@@ -1,9 +1,10 @@
+<!--
 **Loading**  
 Loading...  
 Loading..  
 Loading.  
 **Load Successful!**  
-
+-->
 Mi nombre es Nicolas Pajaro, actualmente me encuentro estudiando Ingeniería de Sistemas y Computación en la Universidad Nacional de Colombia
 <!--
 **Npajaro25/Npajaro25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
